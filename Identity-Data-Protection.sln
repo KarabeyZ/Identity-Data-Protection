@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity-Data-Protection", "Identity-Data-Protection\Identity-Data-Protection.csproj", "{19EE0493-77BD-4C63-9966-DB32F1F96119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19EE0493-77BD-4C63-9966-DB32F1F96119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EE0493-77BD-4C63-9966-DB32F1F96119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EE0493-77BD-4C63-9966-DB32F1F96119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EE0493-77BD-4C63-9966-DB32F1F96119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B06C836-2FD8-43E5-BB36-AA101A6C252E}
+	EndGlobalSection
+EndGlobal
